@@ -8,7 +8,6 @@ const ProtectedRoute = ({ children }) => {
   } else {
     return children;
   }
-  return <div></div>;
-}; 
+};
 
 export default ProtectedRoute;
