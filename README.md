@@ -1,4 +1,4 @@
-# Go to my app - (https://netflix-reactjs-eb225.web.app/)
+# Go to my app - (https://netflix-clone-1cc5f.web.app/)
 
 
 # Getting Started with Create React App
